@@ -1,0 +1,11 @@
+# Image Processing
+opencv-python>=4.5.0
+numpy>=1.19.0
+scikit-image>=0.18.0
+
+# CAD File Generation
+ezdxf>=0.16.0
+
+# Utilities
+matplotlib>=3.3.0
+scipy>=1.5.0
