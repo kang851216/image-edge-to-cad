@@ -24,6 +24,6 @@ An automated pipeline designed to extract edges from images and convert them int
     pip install -r requirements.txt
 
 ## 💻 Usage
-* **Place your images in the input/ folder and run the conversion script:
+* Place your images in the input/ folder and run the conversion script:
   ```bash
     python image_to_cad.py --input ./input/drawing.png --output ./output/result.dxf
