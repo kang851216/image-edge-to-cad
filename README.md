@@ -2,6 +2,9 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
+<img width="804" height="311" alt="image" src="https://github.com/user-attachments/assets/e865e0cd-84ec-4d90-af24-58bba53b9585" />
+
+
 An automated pipeline designed to extract edges from images and convert them into editable CAD formats (DXF/SVG). This tool is ideal for converting hand-drawn sketches, architectural diagrams, or mechanical parts into vector-based engineering files.
 
 ---
